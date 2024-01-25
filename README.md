@@ -54,3 +54,4 @@ The script sets the device to GPU if available, loads a pre-trained model (incep
 Matplotlib is used to display the input image and the final Deep Dream output side by side.
 
 ## References
+<a href="https://en.wikipedia.org/wiki/DeepDream"> Deep Dream on Wikipedia </a>
