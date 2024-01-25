@@ -19,7 +19,7 @@ pip install torch torchvision Pillow numpy matplotlib
 
 ## Usage
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/LukaFilipovic471/matf-ri-project.git
 ```
