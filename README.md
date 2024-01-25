@@ -36,3 +36,21 @@ octave_scale = 1.4
 output_image_path = "path/to/output.jpg"
 ```
 
+### 3. Visualize Results
+The input image and the generated Deep Dream output will be displayed using Matplotlib.
+
+## Code Overview
+
+### DeepDream Class
+The `DeepDream` class defines a PyTorch module for the Deep Dream model. It takes a pre-trained neural network and a layer index as input and extracts features from the network up to the specified layer.
+
+### deep_dream Function
+The `deep_dream` function performs the Deep Dream algorithm on an input image using the specified model and layer. It iteratively optimizes the input image to enhance patterns that activate the chosen layer.
+
+### Set the Device and Load Pre-trained Model
+The script sets the device to GPU if available, loads a pre-trained model (inception_v3 in this example), and sets it to evaluation mode.
+
+### Display Input and Output Images
+Matplotlib is used to display the input image and the final Deep Dream output side by side.
+
+## References
