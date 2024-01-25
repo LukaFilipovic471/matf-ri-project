@@ -54,4 +54,6 @@ The script sets the device to GPU if available, loads a pre-trained model (incep
 Matplotlib is used to display the input image and the final Deep Dream output side by side.
 
 ## References
-<a href="https://en.wikipedia.org/wiki/DeepDream"> - Deep Dream on Wikipedia </a>
+<a href="https://en.wikipedia.org/wiki/DeepDream"> Deep Dream on Wikipedia </a>
+<a href=https://www.tensorflow.org/tutorials/generative/deepdream> Deep Dream using Tensorflow</a>
+<a href=https://pytorch.org/docs/stable/index.html> PyTorch Documentation</a>
