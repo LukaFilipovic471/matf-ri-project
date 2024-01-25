@@ -15,3 +15,8 @@ Install the required dependencies using the following command:
 
 ```bash
 pip install torch torchvision Pillow numpy matplotlib
+
+## Usage
+
+## 1. Clone the Repository
+```bash
