@@ -10,11 +10,13 @@ This repository contains a PyTorch implementation of the Deep Dream algorithm. D
 - Pillow (PIL)
 - NumPy
 - Matplotlib
+- Seaborn
+- Sklearn
 
 Install the required dependencies using the following command:
 
 ```bash
-pip install torch torchvision Pillow numpy matplotlib
+pip install torch torchvision Pillow numpy matplotlib seaborn sklearn
 ```
 
 ## Usage
